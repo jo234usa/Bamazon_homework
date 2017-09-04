@@ -4,7 +4,7 @@ Bamazon is a node application that displays urban treasures available for sale, 
 
 **Prerequisites**
 
-You will need [Mysql](https://www.mysql.com/products/workbench/) in order to run this. 
+You will need to install [Node.js](https://nodejs.org/en/download/) and [Mysql](https://www.mysql.com/products/workbench/) in order to run this. 
 
 **Deployment**
 
@@ -12,9 +12,9 @@ You will need [Mysql](https://www.mysql.com/products/workbench/) in order to run
 
 `$ npm i`
 
-2. Once all dependencies have been downloaded, copy instructions in bamazon_db.sql into MySQL query window. Choose all the code and click run selection.  
+2. Once all dependencies have been downloaded, copy instructions from bamazon_db.sql into the MySQL query window. Choose all the code and click run selection.  
 
-3. This program runs via the following command
+3. Once the database has been created in your system, run this program in Terminal or Bash via the following command
 
 `$ node bamazonCustomer.js`
 
