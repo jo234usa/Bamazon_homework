@@ -15,8 +15,8 @@ CREATE TABLE products(
 SELECT * FROM products;
 
 INSERT INTO products(product_name, category, price, stock_quantity)
-VALUES ("soda caps", "urban treasure",	1,	1000),
-("chewed gum",	"urban treasure", 2, 2000),
+VALUES ("soda caps", "urban treasure",	1.00,	1000),
+("chewed gum",	"urban treasure", 2.00, 2000),
 ("empty soda bottles",	"urban treasure", 3.00,	3000),
 ("bum shoes", "urban treasure",	4.00, 4000),
 ("traffic cones", "urban treasure",	5.00, 5000),
