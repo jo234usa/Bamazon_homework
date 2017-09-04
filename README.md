@@ -12,9 +12,9 @@ You will need [Mysql](https://www.mysql.com/products/workbench/) in order to run
 
 `$ npm i`
 
-1. Once all dependencies have been downloaded, copy instructions in bamazon_db.sql into MySQL query window. Choose all the code and click run selection.  
+2. Once all dependencies have been downloaded, copy instructions in bamazon_db.sql into MySQL query window. Choose all the code and click run selection.  
 
-1. This program runs via the following command
+3. This program runs via the following command
 
 `$ node bamazonCustomer.js`
 
