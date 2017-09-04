@@ -4,7 +4,7 @@ Bamazon is a node application that displays urban treasures available for sale, 
 
 **Prerequisites**
 
-You will need [Mysql] (https://www.mysql.com/products/workbench/) in order to run this. 
+You will need [Mysql](https://www.mysql.com/products/workbench/) in order to run this. 
 
 **Deployment**
 
