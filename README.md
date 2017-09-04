@@ -18,10 +18,10 @@ Once all dependencies have been downloaded, this program is run via the followin
 
 **Built With**
 
-* Google Chrome*
-* Mysql - An Open Source Relational Database Management System *
-* node - A javascript programming language*
-* Terminal - A Mac Application*
+* Google Chrome
+* Mysql - An Open Source Relational Database Management System 
+* node - A javascript programming language
+* Terminal - A Mac Application
 
 **Versioning**
 
