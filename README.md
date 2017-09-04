@@ -37,4 +37,4 @@ No license.
 
 **Acknowledgments**
 
-Thanks to @Icarusoncloud9. I would never have finished this gem if you weren't riding me :kissing_cat:. Also special thanks to @percy0819 for helping me get my decrement function working and @khendo888 for showing us all how console.table worked. 
+Thanks to @Icarusoncloud9. I would never have finished this gem if you weren't riding me :kissing_cat:. Also special thanks to @percy0819 for helping me get my decrement function working and @khendo888 for showing us all how console.table worked. You guys rock! :wink: 
