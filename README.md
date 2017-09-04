@@ -1,54 +1,27 @@
 # Bamazon
 
-Bamazon is a node application that displays items available for sale and allows customers to purchase those items
-
-**Getting Started**
-
-*These instructions will get you a copy of the project up and running on your local machine for development and testing* *purposes. See deployment for notes on how to deploy the project on a live system.*
+Bamazon is a node application that displays urban treasures available for sale, provides customers with a price for the amount they wish to purchase, and decreases the stock amount based on how much they buy.
 
 **Prerequisites**
 
-npm mysql and npm inquirer need to be installed for this to run 
-
-**Installing**
-
-*A step by step series of examples that tell you have to get a development env running*
-
-*Say what the step will be*
-
-*Give the example*
-*And repeat*
-
-*until finished*
-*End with an example of getting some data out of the system or using it for a little demo*
-
-**Running the tests**
-
-*Explain how to run the automated tests for this system*
-
-*Break down into end to end tests*
-
-*Explain what these tests test and why*
-
-*Give an example*
-*And coding style tests*
-
-*Explain what these tests test and why*
-
-*Give an example*
+You will need [Mysql] (https://www.mysql.com/products/workbench/) in order to run this. 
 
 **Deployment**
 
-*Add additional notes about how to deploy this on a live system*
+Run this from Terminal on Mac or Bash on Windows
+
+`$ npm i`
+
+Once all dependencies have been downloaded, this program is run via the following command
+
+`$ node bamazonCustomer.js`
 
 **Built With**
 
 * Google Chrome*
-*Mysql - The web framework used*
-*node - Dependency Management*
-*Terminal - Used to generate RSS Feeds*
-
-**Contributing**
+* Mysql - The web framework used*
+* node - Dependency Management*
+* Terminal - A Mac Application*
 
 **Versioning**
 
@@ -64,4 +37,4 @@ No license.
 
 **Acknowledgments**
 
-The teaching staff at Rutger's Computer Bootcamp :kissing_cat:
+Thanks to @Icarusoncloud9. I would never have finished this gem if you weren't riding me :kissing_cat:. Also special thanks to @percy0819 for helping me get my decrement function working and @khendo888 for showing us all how console.table worked. 
