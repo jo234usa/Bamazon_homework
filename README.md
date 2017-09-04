@@ -8,11 +8,13 @@ You will need [Mysql](https://www.mysql.com/products/workbench/) in order to run
 
 **Deployment**
 
-Run this from Terminal on Mac or Bash on Windows
+1. Run this from Terminal on Mac or Bash on Windows
 
 `$ npm i`
 
-Once all dependencies have been downloaded, this program is run via the following command
+1. Once all dependencies have been downloaded, copy instructions in bamazon_db.sql into MySQL query window. Choose all the code and click run selection.  
+
+1. This program runs via the following command
 
 `$ node bamazonCustomer.js`
 
@@ -20,8 +22,9 @@ Once all dependencies have been downloaded, this program is run via the followin
 
 * Google Chrome
 * Mysql - An Open Source Relational Database Management System 
-* node - A javascript programming language
+* node - A javascript Programming Language
 * Terminal - A Mac Application
+* Sublime - A Cross-platform Source Code Editor
 
 **Versioning**
 
